@@ -1,5 +1,5 @@
 ***************************************************************************************************************************************************************************
-                                                   Monitoring System based on IoT network mesh with NRF52840 devices
+ Monitoring System based on IoT network mesh with NRF52840 devices
 ***************************************************************************************************************************************************************************
 The system is developed using Zephyr and the OpenThread protocol alongside the Nordic Semiconductor SDK, the system takes the RSSI measurements from the 
 "client" devices carried by the users of the system, these values will be send to the application developed using React under the MobileApp folder, and connects into 
